@@ -1,0 +1,19 @@
+{
+  "name": "jchiatt",
+  "version": "1.0.0",
+  "description": "J.C. Hiatt (@jchiatt)'s business card",
+  "main": "index.js",
+  "bin": {
+    "jchiatt": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jchiatt/businesscard.git"
+  },
+  "author": "J.C. Hiatt",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.0.0"
+  }
+}
